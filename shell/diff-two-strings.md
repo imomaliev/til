@@ -9,7 +9,7 @@ https://stackoverflow.com/a/454549/3627387
 diff  <(echo "$string1" ) <(echo "$string2")
 ```
 
-## What we learned
+## What I Learned
 1. How to run shasum on files on macOS
    ```console
    $ diff <(shasum -a 256 go1.15.8.linux-amd64.tar.gz) <(echo "d3379c32a90fdf9382166f8f48034c459a8cc433730bc9476d39d9082c94583b  go1.15.8.linux-amd64.tar.gz")

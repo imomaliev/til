@@ -14,7 +14,7 @@ After digging through search results which weren't relevant and didn't help I fo
 
 Turns out the issue was due to IP blocking. VPN solved this without problem.
 
-## What we learned
+## What I Learned
 
 1. If you have 2FA enabled your regular login and password wouldn't work.
    > If you have Two-Factor Authentication enabled, use a Personal Access Token instead of a password.
