@@ -11,7 +11,7 @@ I was trying to create mapping that will not be run for `help` filetype but duri
 > The <Cmd> pseudokey begins a "command mapping", which executes the command directly (without changing modes). Where you might use ":...<CR>" in the {lhs} of a mapping, you can instead use "<Cmd>...<CR>".
 
 ```vim
-nnoremap <buffer> <cmd> <C-]> call JumpToTagWithLocationList()<CR>
+nnoremap <buffer> <C-]> <cmd>call JumpToTagWithLocationList()<CR>
 ```
 
 There is `<Cmd>` argument for `:map`. For more info `:h :map-<cmd>`
