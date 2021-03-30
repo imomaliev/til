@@ -8,7 +8,7 @@ I messed up my launchctl configs while I was trying to disable FortiClient from 
 
 Edit `/private/var/db/com.apple.xpc.launchd/disabled*` files and delete wrong data
 
-# What I Learned
+## What I Learned
 
 1. How to login to single-user mode on macOS.
 

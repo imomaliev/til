@@ -14,6 +14,10 @@ $ echo $VERSION_CODENAME
 buster
 ```
 
-# Links
+## What I Learned
+
+1. For ubuntu `. /etc/lsb-release`
+
+## Links
 
 1. https://serverfault.com/a/897460/508888
